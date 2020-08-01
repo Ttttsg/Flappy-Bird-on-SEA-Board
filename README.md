@@ -20,7 +20,7 @@
 
 ## 板卡型号与外设列表
 
-**板卡型号：**  SEA-Board （板载**xc7s15ftgb196-1**与**ESP32**）
+ **板卡型号：**  SEA-Board （板载**xc7s15ftgb196-1**与**ESP32**）
 
 **外设列表：** VGA显示器、miniHDMI转VGA接口
 
@@ -28,6 +28,12 @@
 
 ## 仓库目录介绍
 ---
+
+-  source:存放FPGA源码
+- ExecutableFiles: 本⽬录存放可直接下载到板卡使⽤的FPGA 比特流文件
+- images:项目照片
+- videos:演示视频
+
 ---
 
 ## 作品照片
