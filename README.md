@@ -39,6 +39,8 @@
 ## 作品照片
 
 ---
-![img1](images/img1.png)
+![img1](images/img1.jpg)
+![img2](images/img2.jpg)
+![img3](images/img3.jpg)
 
 ---
